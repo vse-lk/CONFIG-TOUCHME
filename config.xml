@@ -1,0 +1,4 @@
+<config>
+    <path>localhost</path>
+    <port>8000</port>
+</config>
